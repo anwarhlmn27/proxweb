@@ -1,0 +1,31 @@
+Kelompok Web Project IF-2-A
+1. SehatWeb  - Ardi
+2. SIMakel - Suci
+3. OpenApply - Riski - OK
+4. Simara - Najwa Alya Rahma - OK
+5. TrainingJobs - Yulia - OK
+6. Payroll - Bagas - OK
+7. SAJustice - Nimas - OK
+8. LapakKaca - Agus Hidayat - OK
+9. SImanduk - Liana - OK
+
+Isi Slide Powerpoint
+1. Background {empethize, define}
+2. Objective {Ideate}
+3. Analys {Usecase, ERD, DFD}
+4. Design {Prototype}
+5. Struktur Organisasi
+6. Schedule
+
+
+UTS 
+23 - 26 Oktober
+UAS 
+16-21 Desember
+
+
+UTS kelas karyawan
+6-9 Oktober
+UAS 
+11-18 Janauari
+maksimal selesai Project Sabtu 14 Des 2024
